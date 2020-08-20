@@ -38,5 +38,5 @@ int main() {
 	for (int i = min; i <= max; i++) {
 		fac_sum(i);
 	}
-
+	return 0;
 }
